@@ -266,12 +266,11 @@ Increase inventory and operational readiness before major promotional events suc
 
 ## Excel Dashboard
 
-![Power BI Dashboard](images/powerbi_dashboard.png)
+![Excel Dashboard](images/powerbi_dashboard.png)
 
 ## Power BI Dashboard
 
 ![Power BI Dashboard Layout](reports/powerbi_executive_report.png)
----
 
 # Project Deliverables
 

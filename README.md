@@ -16,6 +16,8 @@
 
 # Table of Contents
 
+## Table of Contents
+
 1. [Project Overview](#project-overview)
 2. [Business Problem](#business-problem)
 3. [Project Objectives](#project-objectives)
@@ -264,12 +266,11 @@ Increase inventory and operational readiness before major promotional events suc
 
 ## Excel Dashboard
 
-*(Insert Screenshot)*
+![Power BI Dashboard](images/powerbi_dashboard.png)
 
 ## Power BI Dashboard
 
-*(Insert Screenshot)*
-
+![Power BI Dashboard Layout](reports/powerbi_executive_report.png)
 ---
 
 # Project Deliverables

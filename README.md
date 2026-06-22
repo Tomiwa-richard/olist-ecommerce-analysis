@@ -270,8 +270,7 @@ Increase inventory and operational readiness before major promotional events suc
 
 ## Power BI Dashboard
 
-![Power BI Dashboard Layout](reports/powerbi_executive_report.png)
-
+![Power BI Dashboard Layout](reports/powerbi_executive_report.png.png)
 # Project Deliverables
 
 * Python Analysis Notebook

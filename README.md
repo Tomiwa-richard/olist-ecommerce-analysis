@@ -173,8 +173,6 @@ The analytical dataset combines customer, order, payment, review, and product in
 * Reviews
 * Sellers
 
-(Add ERD or Schema Diagram Here)
-
 ---
 
 # Analysis & Key Metrics
@@ -263,10 +261,6 @@ Increase inventory and operational readiness before major promotional events suc
 ---
 
 # Dashboard Preview
-
-## Excel Dashboard
-
-![Excel Dashboard](images/powerbi_dashboard.png)
 
 ## Power BI Dashboard
 
